@@ -1,0 +1,12 @@
+XamarinWeiXinDemo.MainActivity, XamarinWeiXinDemo;md5f195cbef8d056370cecf337396b9f46b.MainActivity
+XamarinWeiXinDemo.MainActivity, XamarinWeiXinDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f195cbef8d056370cecf337396b9f46b.MainActivity
+XamarinWeiXinDemo.MainActivity;md5f195cbef8d056370cecf337396b9f46b.MainActivity
+xamarinweixindemo.MainActivity;md5f195cbef8d056370cecf337396b9f46b.MainActivity
+XamarinWeiXinDemo.WXPayEntryActivity, XamarinWeiXinDemo;md5f195cbef8d056370cecf337396b9f46b.WXPayEntryActivity
+XamarinWeiXinDemo.WXPayEntryActivity, XamarinWeiXinDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f195cbef8d056370cecf337396b9f46b.WXPayEntryActivity
+XamarinWeiXinDemo.WXPayEntryActivity;md5f195cbef8d056370cecf337396b9f46b.WXPayEntryActivity
+xamarinweixindemo.WXPayEntryActivity;md5f195cbef8d056370cecf337396b9f46b.WXPayEntryActivity
+Com.Tencent.MM.Opensdk.Diffdev.IOAuthListenerImplementor, XamarinWeiXinSDKBindingDemo;mono.com.tencent.mm.opensdk.diffdev.OAuthListenerImplementor
+Com.Tencent.MM.Opensdk.Diffdev.IOAuthListenerImplementor, XamarinWeiXinSDKBindingDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.tencent.mm.opensdk.diffdev.OAuthListenerImplementor
+Com.Tencent.MM.Opensdk.Diffdev.IOAuthListenerImplementor;mono.com.tencent.mm.opensdk.diffdev.OAuthListenerImplementor
+mono.com.tencent.mm.opensdk.diffdev.OAuthListenerImplementor;mono.com.tencent.mm.opensdk.diffdev.OAuthListenerImplementor

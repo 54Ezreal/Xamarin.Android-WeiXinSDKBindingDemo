@@ -1,0 +1,1831 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<api>
+  <package name="com.tencent.mm.opensdk.a">
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="a" obfuscated="true" static="false" visibility="public">
+      <method abstract="false" deprecated="not deprecated" final="false" name="a" native="false" return="boolean" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.content.Context">
+        </parameter>
+        <parameter name="p1" type="com.tencent.mm.opensdk.a.a.a">
+        </parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="a.a" obfuscated="true" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="a.a" static="false" type="com.tencent.mm.opensdk.a.a.a" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="true" name="toString" native="false" return="java.lang.String" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="a" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="b" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="c" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="d" static="false" transient="false" type="android.os.Bundle" type-generic-aware="android.os.Bundle" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="flags" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false">
+      </field>
+    </class>
+  </package>
+  <package name="com.tencent.mm.opensdk.a.a">
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="a" obfuscated="true" static="false" visibility="public">
+      <method abstract="false" deprecated="not deprecated" final="false" name="a" native="false" return="boolean" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.content.Context">
+        </parameter>
+        <parameter name="p1" type="com.tencent.mm.opensdk.a.a.a.a">
+        </parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="a.a" obfuscated="true" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="a.a" static="false" type="com.tencent.mm.opensdk.a.a.a.a" visibility="public">
+      </constructor>
+      <field deprecated="not deprecated" final="false" name="c" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="d" static="false" transient="false" type="android.os.Bundle" type-generic-aware="android.os.Bundle" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="e" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="f" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="g" static="false" transient="false" type="long" type-generic-aware="long" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="b" obfuscated="true" static="false" visibility="public">
+      <method abstract="false" deprecated="not deprecated" final="false" name="a" native="false" return="byte[]" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="int">
+        </parameter>
+        <parameter name="p2" type="java.lang.String">
+        </parameter>
+      </method>
+    </class>
+  </package>
+  <package name="com.tencent.mm.opensdk.b">
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="a" obfuscated="true" static="false" visibility="public">
+      <method abstract="false" deprecated="not deprecated" final="false" name="a" native="false" return="int" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+        <parameter name="p1" type="java.lang.String">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="b" native="false" return="java.lang.String" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+        <parameter name="p1" type="java.lang.String">
+        </parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="b" obfuscated="true" static="false" visibility="public">
+      <method abstract="false" deprecated="not deprecated" final="true" name="c" native="false" return="java.lang.String" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="byte[]">
+        </parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="c" obfuscated="true" static="false" visibility="public" />
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="c.a" obfuscated="true" static="true" visibility="public">
+      <method abstract="false" deprecated="not deprecated" final="false" name="a" native="false" return="java.lang.Object" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="int">
+        </parameter>
+        <parameter name="p1" type="java.lang.String">
+        </parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="c.b" obfuscated="true" static="true" visibility="public">
+      <implements name="android.provider.BaseColumns" name-generic-aware="android.provider.BaseColumns">
+      </implements>
+      <field deprecated="not deprecated" final="true" name="CONTENT_URI" static="true" transient="false" type="android.net.Uri" type-generic-aware="android.net.Uri" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="d" obfuscated="true" static="false" visibility="public">
+      <method abstract="false" deprecated="not deprecated" final="false" name="a" native="false" return="boolean" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+      </method>
+    </class>
+  </package>
+  <package name="com.tencent.mm.opensdk.constants">
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="Build" static="false" visibility="public">
+      <method abstract="false" deprecated="not deprecated" final="false" name="getMajorVersion" native="false" return="int" static="true" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getMinorVersion" native="false" return="int" static="true" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="true" name="EMOJI_SUPPORTED_SDK_INT" static="true" transient="false" type="int" type-generic-aware="int" value="553844737" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="FAVORITE_SUPPPORTED_SDK_INT" static="true" transient="false" type="int" type-generic-aware="int" value="570425345" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="MESSAGE_ACTION_SUPPPORTED_SDK_INT" static="true" transient="false" type="int" type-generic-aware="int" value="570490883" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="MIN_SDK_INT" static="true" transient="false" type="int" type-generic-aware="int" value="553713665" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="MUSIC_DATA_URL_SUPPORTED_SDK_INT" static="true" transient="false" type="int" type-generic-aware="int" value="553910273" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="OPENID_SUPPORTED_SDK_INT" static="true" transient="false" type="int" type-generic-aware="int" value="570425345" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="PAY_SUPPORTED_SDK_INT" static="true" transient="false" type="int" type-generic-aware="int" value="570425345" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="SCAN_QRCODE_AUTH_SUPPORTED_SDK_INT" static="true" transient="false" type="int" type-generic-aware="int" value="587268097" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="SDK_INT" static="true" transient="false" type="int" type-generic-aware="int" value="603979778" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="SDK_VERSION_NAME" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;android 4.0.2&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TIMELINE_SUPPORTED_SDK_INT" static="true" transient="false" type="int" type-generic-aware="int" value="553779201" visibility="public" volatile="false">
+      </field>
+    </class>
+    <interface abstract="true" deprecated="not deprecated" final="false" name="ConstantsAPI" static="false" visibility="public">
+      <field deprecated="not deprecated" final="true" name="ACTION_HANDLE_APP_REGISTER" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;com.tencent.mm.plugin.openapi.Intent.ACTION_HANDLE_APP_REGISTER&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="ACTION_HANDLE_APP_UNREGISTER" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;com.tencent.mm.plugin.openapi.Intent.ACTION_HANDLE_APP_UNREGISTER&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="ACTION_REFRESH_WXAPP" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="APP_PACKAGE" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;_mmessage_appPackage&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="APP_SUPORT_CONTENT_TYPE" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;_mmessage_support_content_type&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="CHECK_SUM" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;_mmessage_checksum&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="COMMAND_ADD_CARD_TO_EX_CARD_PACKAGE" static="true" transient="false" type="int" type-generic-aware="int" value="9" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="COMMAND_CHOOSE_CARD_FROM_EX_CARD_PACKAGE" static="true" transient="false" type="int" type-generic-aware="int" value="16" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="COMMAND_CREATE_CHATROOM" static="true" transient="false" type="int" type-generic-aware="int" value="14" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="COMMAND_GETMESSAGE_FROM_WX" static="true" transient="false" type="int" type-generic-aware="int" value="3" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="COMMAND_JOIN_CHATROOM" static="true" transient="false" type="int" type-generic-aware="int" value="15" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="COMMAND_JUMP_BIZ_TEMPSESSION" static="true" transient="false" type="int" type-generic-aware="int" value="10" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="COMMAND_JUMP_BIZ_WEBVIEW" static="true" transient="false" type="int" type-generic-aware="int" value="8" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="COMMAND_JUMP_TO_BIZ_PROFILE" static="true" transient="false" type="int" type-generic-aware="int" value="7" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="COMMAND_LAUNCH_BY_WX" static="true" transient="false" type="int" type-generic-aware="int" value="6" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="COMMAND_OPEN_BUSI_LUCKY_MONEY" static="true" transient="false" type="int" type-generic-aware="int" value="13" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="COMMAND_OPEN_RANK_LIST" static="true" transient="false" type="int" type-generic-aware="int" value="11" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="COMMAND_OPEN_WEBVIEW" static="true" transient="false" type="int" type-generic-aware="int" value="12" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="COMMAND_PAY_BY_WX" static="true" transient="false" type="int" type-generic-aware="int" value="5" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="COMMAND_SENDAUTH" static="true" transient="false" type="int" type-generic-aware="int" value="1" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="COMMAND_SENDMESSAGE_TO_WX" static="true" transient="false" type="int" type-generic-aware="int" value="2" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="COMMAND_SHOWMESSAGE_FROM_WX" static="true" transient="false" type="int" type-generic-aware="int" value="4" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="COMMAND_UNKNOWN" static="true" transient="false" type="int" type-generic-aware="int" value="0" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="CONTENT" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;_mmessage_content&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="SDK_VERSION" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;_mmessage_sdkVersion&quot;" visibility="public" volatile="false">
+      </field>
+    </interface>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="ConstantsAPI.AppSupportContentFlag" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="ConstantsAPI.AppSupportContentFlag" static="false" type="com.tencent.mm.opensdk.constants.ConstantsAPI.AppSupportContentFlag" visibility="public">
+      </constructor>
+      <field deprecated="not deprecated" final="true" name="MMAPP_SUPPORT_AUDIO" static="true" transient="false" type="long" type-generic-aware="long" value="16L" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="MMAPP_SUPPORT_DOC" static="true" transient="false" type="long" type-generic-aware="long" value="64L" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="MMAPP_SUPPORT_DOCX" static="true" transient="false" type="long" type-generic-aware="long" value="128L" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="MMAPP_SUPPORT_LOCATION" static="true" transient="false" type="long" type-generic-aware="long" value="4L" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="MMAPP_SUPPORT_PDF" static="true" transient="false" type="long" type-generic-aware="long" value="4096L" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="MMAPP_SUPPORT_PICTURE" static="true" transient="false" type="long" type-generic-aware="long" value="2L" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="MMAPP_SUPPORT_PPT" static="true" transient="false" type="long" type-generic-aware="long" value="256L" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="MMAPP_SUPPORT_PPTX" static="true" transient="false" type="long" type-generic-aware="long" value="512L" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="MMAPP_SUPPORT_TEXT" static="true" transient="false" type="long" type-generic-aware="long" value="1L" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="MMAPP_SUPPORT_VIDEO" static="true" transient="false" type="long" type-generic-aware="long" value="8L" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="MMAPP_SUPPORT_WEBPAGE" static="true" transient="false" type="long" type-generic-aware="long" value="32L" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="MMAPP_SUPPORT_XLS" static="true" transient="false" type="long" type-generic-aware="long" value="1024L" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="MMAPP_SUPPORT_XLSX" static="true" transient="false" type="long" type-generic-aware="long" value="2048L" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="ConstantsAPI.Token" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="ConstantsAPI.Token" static="false" type="com.tencent.mm.opensdk.constants.ConstantsAPI.Token" visibility="public">
+      </constructor>
+      <field deprecated="not deprecated" final="true" name="WX_LAUNCH_PARAM_KEY" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;launchParam&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="WX_TOKEN_KEY" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;wx_token_key&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="WX_TOKEN_PLATFORMID_KEY" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;platformId&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="WX_TOKEN_PLATFORMID_VALUE" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;wechat&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="WX_TOKEN_VALUE_MSG" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;com.tencent.mm.openapi.token&quot;" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="ConstantsAPI.WXApp" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="ConstantsAPI.WXApp" static="false" type="com.tencent.mm.opensdk.constants.ConstantsAPI.WXApp" visibility="public">
+      </constructor>
+      <field deprecated="not deprecated" final="true" name="WXAPP_BROADCAST_PERMISSION" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;com.tencent.mm.permission.MM_MESSAGE&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="WXAPP_MSG_ENTRY_CLASSNAME" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;com.tencent.mm.plugin.base.stub.WXEntryActivity&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="WXAPP_PACKAGE_NAME" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;com.tencent.mm&quot;" visibility="public" volatile="false">
+      </field>
+    </class>
+  </package>
+  <package name="com.tencent.mm.opensdk.diffdev">
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="DiffDevOAuthFactory" static="false" visibility="public">
+      <method abstract="false" deprecated="not deprecated" final="false" name="getDiffDevOAuth" native="false" return="com.tencent.mm.opensdk.diffdev.IDiffDevOAuth" static="true" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getDiffDevOAuth" native="false" return="com.tencent.mm.opensdk.diffdev.IDiffDevOAuth" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="int">
+        </parameter>
+      </method>
+      <field deprecated="not deprecated" final="true" name="MAX_SUPPORTED_VERSION" static="true" transient="false" type="int" type-generic-aware="int" value="1" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="VERSION_1" static="true" transient="false" type="int" type-generic-aware="int" value="1" visibility="public" volatile="false">
+      </field>
+    </class>
+    <interface abstract="true" deprecated="not deprecated" final="false" name="IDiffDevOAuth" static="false" visibility="public">
+      <method abstract="true" deprecated="not deprecated" final="false" name="addListener" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="com.tencent.mm.opensdk.diffdev.OAuthListener">
+        </parameter>
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="auth" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="java.lang.String">
+        </parameter>
+        <parameter name="p2" type="java.lang.String">
+        </parameter>
+        <parameter name="p3" type="java.lang.String">
+        </parameter>
+        <parameter name="p4" type="java.lang.String">
+        </parameter>
+        <parameter name="p5" type="com.tencent.mm.opensdk.diffdev.OAuthListener">
+        </parameter>
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="detach" native="false" return="void" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="removeAllListeners" native="false" return="void" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="removeListener" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="com.tencent.mm.opensdk.diffdev.OAuthListener">
+        </parameter>
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="stopAuth" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+    </interface>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Enum" extends-generic-aware="java.lang.Enum&lt;com.tencent.mm.opensdk.diffdev.OAuthErrCode&gt;" final="true" name="OAuthErrCode" static="false" visibility="public">
+      <method abstract="false" deprecated="not deprecated" final="true" name="getCode" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="toString" native="false" return="java.lang.String" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="valueOf" native="false" return="com.tencent.mm.opensdk.diffdev.OAuthErrCode" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="values" native="false" return="com.tencent.mm.opensdk.diffdev.OAuthErrCode[]" static="true" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="true" name="WechatAuth_Err_Auth_Stopped" static="true" transient="false" type="com.tencent.mm.opensdk.diffdev.OAuthErrCode" type-generic-aware="com.tencent.mm.opensdk.diffdev.OAuthErrCode" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="WechatAuth_Err_Cancel" static="true" transient="false" type="com.tencent.mm.opensdk.diffdev.OAuthErrCode" type-generic-aware="com.tencent.mm.opensdk.diffdev.OAuthErrCode" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="WechatAuth_Err_JsonDecodeErr" static="true" transient="false" type="com.tencent.mm.opensdk.diffdev.OAuthErrCode" type-generic-aware="com.tencent.mm.opensdk.diffdev.OAuthErrCode" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="WechatAuth_Err_NetworkErr" static="true" transient="false" type="com.tencent.mm.opensdk.diffdev.OAuthErrCode" type-generic-aware="com.tencent.mm.opensdk.diffdev.OAuthErrCode" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="WechatAuth_Err_NormalErr" static="true" transient="false" type="com.tencent.mm.opensdk.diffdev.OAuthErrCode" type-generic-aware="com.tencent.mm.opensdk.diffdev.OAuthErrCode" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="WechatAuth_Err_OK" static="true" transient="false" type="com.tencent.mm.opensdk.diffdev.OAuthErrCode" type-generic-aware="com.tencent.mm.opensdk.diffdev.OAuthErrCode" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="WechatAuth_Err_Timeout" static="true" transient="false" type="com.tencent.mm.opensdk.diffdev.OAuthErrCode" type-generic-aware="com.tencent.mm.opensdk.diffdev.OAuthErrCode" visibility="public" volatile="false">
+      </field>
+    </class>
+    <interface abstract="true" deprecated="not deprecated" final="false" name="OAuthListener" static="false" visibility="public">
+      <method abstract="true" deprecated="not deprecated" final="false" name="onAuthFinish" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="com.tencent.mm.opensdk.diffdev.OAuthErrCode">
+        </parameter>
+        <parameter name="p1" type="java.lang.String">
+        </parameter>
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="onAuthGotQrcode" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="byte[]">
+        </parameter>
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="onQrcodeScanned" native="false" return="void" static="false" synchronized="false" visibility="public">
+      </method>
+    </interface>
+  </package>
+  <package name="com.tencent.mm.opensdk.diffdev.a">
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="a" obfuscated="true" static="false" visibility="public">
+      <implements name="com.tencent.mm.opensdk.diffdev.IDiffDevOAuth" name-generic-aware="com.tencent.mm.opensdk.diffdev.IDiffDevOAuth">
+      </implements>
+      <constructor deprecated="not deprecated" final="false" name="a" static="false" type="com.tencent.mm.opensdk.diffdev.a.a" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="true" name="addListener" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="com.tencent.mm.opensdk.diffdev.OAuthListener">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="auth" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="java.lang.String">
+        </parameter>
+        <parameter name="p2" type="java.lang.String">
+        </parameter>
+        <parameter name="p3" type="java.lang.String">
+        </parameter>
+        <parameter name="p4" type="java.lang.String">
+        </parameter>
+        <parameter name="p5" type="com.tencent.mm.opensdk.diffdev.OAuthListener">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="detach" native="false" return="void" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="removeAllListeners" native="false" return="void" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="removeListener" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="com.tencent.mm.opensdk.diffdev.OAuthListener">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="stopAuth" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="b" obfuscated="true" static="false" visibility="">
+      <implements name="com.tencent.mm.opensdk.diffdev.OAuthListener" name-generic-aware="com.tencent.mm.opensdk.diffdev.OAuthListener">
+      </implements>
+      <method abstract="false" deprecated="not deprecated" final="true" name="onAuthFinish" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="com.tencent.mm.opensdk.diffdev.OAuthErrCode">
+        </parameter>
+        <parameter name="p1" type="java.lang.String">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="onAuthGotQrcode" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="byte[]">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="onQrcodeScanned" native="false" return="void" static="false" synchronized="false" visibility="public">
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="c" obfuscated="true" static="false" visibility="">
+      <implements name="java.lang.Runnable" name-generic-aware="java.lang.Runnable">
+      </implements>
+      <method abstract="false" deprecated="not deprecated" final="true" name="run" native="false" return="void" static="false" synchronized="false" visibility="public">
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="android.os.AsyncTask" extends-generic-aware="android.os.AsyncTask&lt;java.lang.Void, java.lang.Void, com.tencent.mm.opensdk.diffdev.a.d.a&gt;" final="true" name="d" obfuscated="true" static="false" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="d" static="false" type="com.tencent.mm.opensdk.diffdev.a.d" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="java.lang.String">
+        </parameter>
+        <parameter name="p2" type="java.lang.String">
+        </parameter>
+        <parameter name="p3" type="java.lang.String">
+        </parameter>
+        <parameter name="p4" type="java.lang.String">
+        </parameter>
+        <parameter name="p5" type="com.tencent.mm.opensdk.diffdev.OAuthListener">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="true" name="a" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="d.a" obfuscated="true" static="true" visibility="">
+      <field deprecated="not deprecated" final="false" name="t" static="false" transient="false" type="com.tencent.mm.opensdk.diffdev.OAuthErrCode" type-generic-aware="com.tencent.mm.opensdk.diffdev.OAuthErrCode" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="u" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="v" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="w" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="x" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="y" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="z" static="false" transient="false" type="byte[]" type-generic-aware="byte[]" value="null" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="android.os.AsyncTask" extends-generic-aware="android.os.AsyncTask&lt;java.lang.Void, java.lang.Void, com.tencent.mm.opensdk.diffdev.a.f.a&gt;" final="true" name="f" obfuscated="true" static="false" visibility="">
+      <constructor deprecated="not deprecated" final="false" name="f" static="false" type="com.tencent.mm.opensdk.diffdev.a.f" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="com.tencent.mm.opensdk.diffdev.OAuthListener">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="true" name="doInBackground" native="false" return="java.lang.Object" static="false" synchronized="false" visibility="protected">
+        <parameter name="p0" type="java.lang.Object[]">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="onPostExecute" native="false" return="void" static="false" synchronized="false" visibility="protected">
+        <parameter name="p0" type="java.lang.Object">
+        </parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="f.a" obfuscated="true" static="true" visibility="">
+      <field deprecated="not deprecated" final="false" name="B" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="C" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="t" static="false" transient="false" type="com.tencent.mm.opensdk.diffdev.OAuthErrCode" type-generic-aware="com.tencent.mm.opensdk.diffdev.OAuthErrCode" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Enum" extends-generic-aware="java.lang.Enum&lt;com.tencent.mm.opensdk.diffdev.a.g&gt;" final="true" name="g" obfuscated="true" static="false" visibility="public">
+      <method abstract="false" deprecated="not deprecated" final="true" name="getCode" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="toString" native="false" return="java.lang.String" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="valueOf" native="false" return="com.tencent.mm.opensdk.diffdev.a.g" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="values" native="false" return="com.tencent.mm.opensdk.diffdev.a.g[]" static="true" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="true" name="D" static="true" transient="false" type="com.tencent.mm.opensdk.diffdev.a.g" type-generic-aware="com.tencent.mm.opensdk.diffdev.a.g" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="E" static="true" transient="false" type="com.tencent.mm.opensdk.diffdev.a.g" type-generic-aware="com.tencent.mm.opensdk.diffdev.a.g" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="F" static="true" transient="false" type="com.tencent.mm.opensdk.diffdev.a.g" type-generic-aware="com.tencent.mm.opensdk.diffdev.a.g" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="G" static="true" transient="false" type="com.tencent.mm.opensdk.diffdev.a.g" type-generic-aware="com.tencent.mm.opensdk.diffdev.a.g" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="H" static="true" transient="false" type="com.tencent.mm.opensdk.diffdev.a.g" type-generic-aware="com.tencent.mm.opensdk.diffdev.a.g" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="I" static="true" transient="false" type="com.tencent.mm.opensdk.diffdev.a.g" type-generic-aware="com.tencent.mm.opensdk.diffdev.a.g" visibility="public" volatile="false">
+      </field>
+    </class>
+  </package>
+  <package name="com.tencent.mm.opensdk.modelbase">
+    <class abstract="true" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="BaseReq" static="false" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="BaseReq" static="false" type="com.tencent.mm.opensdk.modelbase.BaseReq" visibility="public">
+      </constructor>
+      <method abstract="true" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="fromBundle" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="toBundle" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <field deprecated="not deprecated" final="false" name="openId" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="transaction" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="true" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="BaseResp" static="false" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="BaseResp" static="false" type="com.tencent.mm.opensdk.modelbase.BaseResp" visibility="public">
+      </constructor>
+      <method abstract="true" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="fromBundle" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="toBundle" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <field deprecated="not deprecated" final="false" name="errCode" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false" managedName="errCode">
+      </field>
+      <field deprecated="not deprecated" final="false" name="errStr" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="openId" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="transaction" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <interface abstract="true" deprecated="not deprecated" final="false" name="BaseResp.ErrCode" static="true" visibility="public">
+      <field deprecated="not deprecated" final="true" name="ERR_AUTH_DENIED" static="true" transient="false" type="int" type-generic-aware="int" value="-4" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="ERR_BAN" static="true" transient="false" type="int" type-generic-aware="int" value="-6" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="ERR_COMM" static="true" transient="false" type="int" type-generic-aware="int" value="-1" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="ERR_OK" static="true" transient="false" type="int" type-generic-aware="int" value="0" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="ERR_SENT_FAILED" static="true" transient="false" type="int" type-generic-aware="int" value="-3" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="ERR_UNSUPPORT" static="true" transient="false" type="int" type-generic-aware="int" value="-5" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="ERR_USER_CANCEL" static="true" transient="false" type="int" type-generic-aware="int" value="-2" visibility="public" volatile="false">
+      </field>
+    </interface>
+  </package>
+  <package name="com.tencent.mm.opensdk.modelbiz">
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="AddCardToWXCardPackage" static="false" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="AddCardToWXCardPackage" static="false" type="com.tencent.mm.opensdk.modelbiz.AddCardToWXCardPackage" visibility="public">
+      </constructor>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseReq" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseReq" final="false" name="AddCardToWXCardPackage.Req" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="AddCardToWXCardPackage.Req" static="false" type="com.tencent.mm.opensdk.modelbiz.AddCardToWXCardPackage.Req" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="cardArrary" static="false" transient="false" type="java.util.List" type-generic-aware="java.util.List&lt;com.tencent.mm.opensdk.modelbiz.AddCardToWXCardPackage.WXCardItem&gt;" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseResp" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseResp" final="false" name="AddCardToWXCardPackage.Resp" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="AddCardToWXCardPackage.Resp" static="false" type="com.tencent.mm.opensdk.modelbiz.AddCardToWXCardPackage.Resp" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="AddCardToWXCardPackage.Resp" static="false" type="com.tencent.mm.opensdk.modelbiz.AddCardToWXCardPackage.Resp" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="cardArrary" static="false" transient="false" type="java.util.List" type-generic-aware="java.util.List&lt;com.tencent.mm.opensdk.modelbiz.AddCardToWXCardPackage.WXCardItem&gt;" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="AddCardToWXCardPackage.WXCardItem" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="AddCardToWXCardPackage.WXCardItem" static="false" type="com.tencent.mm.opensdk.modelbiz.AddCardToWXCardPackage.WXCardItem" visibility="public">
+      </constructor>
+      <field deprecated="not deprecated" final="false" name="cardExtMsg" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="cardId" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="cardState" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="ChooseCardFromWXCardPackage" static="false" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="ChooseCardFromWXCardPackage" static="false" type="com.tencent.mm.opensdk.modelbiz.ChooseCardFromWXCardPackage" visibility="public">
+      </constructor>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseReq" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseReq" final="false" name="ChooseCardFromWXCardPackage.Req" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="ChooseCardFromWXCardPackage.Req" static="false" type="com.tencent.mm.opensdk.modelbiz.ChooseCardFromWXCardPackage.Req" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="appId" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="canMultiSelect" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="cardId" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="cardSign" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="cardType" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="locationId" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="nonceStr" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="signType" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="timeStamp" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseResp" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseResp" final="false" name="ChooseCardFromWXCardPackage.Resp" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="ChooseCardFromWXCardPackage.Resp" static="false" type="com.tencent.mm.opensdk.modelbiz.ChooseCardFromWXCardPackage.Resp" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="ChooseCardFromWXCardPackage.Resp" static="false" type="com.tencent.mm.opensdk.modelbiz.ChooseCardFromWXCardPackage.Resp" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="cardItemList" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="CreateChatroom" static="false" visibility="public" />
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseReq" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseReq" final="false" name="CreateChatroom.Req" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="CreateChatroom.Req" static="false" type="com.tencent.mm.opensdk.modelbiz.CreateChatroom.Req" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="chatroomName" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="chatroomNickName" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="extMsg" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="groupId" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseResp" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseResp" final="false" name="CreateChatroom.Resp" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="CreateChatroom.Resp" static="false" type="com.tencent.mm.opensdk.modelbiz.CreateChatroom.Resp" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="CreateChatroom.Resp" static="false" type="com.tencent.mm.opensdk.modelbiz.CreateChatroom.Resp" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="extMsg" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="JoinChatroom" static="false" visibility="public" />
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseReq" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseReq" final="false" name="JoinChatroom.Req" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="JoinChatroom.Req" static="false" type="com.tencent.mm.opensdk.modelbiz.JoinChatroom.Req" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="chatroomNickName" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="extMsg" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="groupId" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseResp" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseResp" final="false" name="JoinChatroom.Resp" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="JoinChatroom.Resp" static="false" type="com.tencent.mm.opensdk.modelbiz.JoinChatroom.Resp" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="JoinChatroom.Resp" static="false" type="com.tencent.mm.opensdk.modelbiz.JoinChatroom.Resp" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="extMsg" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="JumpToBizProfile" static="false" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="JumpToBizProfile" static="false" type="com.tencent.mm.opensdk.modelbiz.JumpToBizProfile" visibility="public">
+      </constructor>
+      <field deprecated="not deprecated" final="true" name="JUMP_TO_HARD_WARE_BIZ_PROFILE" static="true" transient="false" type="int" type-generic-aware="int" value="1" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="JUMP_TO_NORMAL_BIZ_PROFILE" static="true" transient="false" type="int" type-generic-aware="int" value="0" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseReq" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseReq" final="false" name="JumpToBizProfile.Req" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="JumpToBizProfile.Req" static="false" type="com.tencent.mm.opensdk.modelbiz.JumpToBizProfile.Req" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="extMsg" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="profileType" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="toUserName" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="JumpToBizTempSession" static="false" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="JumpToBizTempSession" static="false" type="com.tencent.mm.opensdk.modelbiz.JumpToBizTempSession" visibility="public">
+      </constructor>
+      <field deprecated="not deprecated" final="true" name="SHOW_CHAT" static="true" transient="false" type="int" type-generic-aware="int" value="1" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="SHOW_MENU" static="true" transient="false" type="int" type-generic-aware="int" value="0" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseReq" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseReq" final="false" name="JumpToBizTempSession.Req" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="JumpToBizTempSession.Req" static="false" type="com.tencent.mm.opensdk.modelbiz.JumpToBizTempSession.Req" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="sessionFrom" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="showType" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="toUserName" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="JumpToBizWebview" static="false" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="JumpToBizWebview" static="false" type="com.tencent.mm.opensdk.modelbiz.JumpToBizWebview" visibility="public">
+      </constructor>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseReq" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseReq" final="false" name="JumpToBizWebview.Req" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="JumpToBizWebview.Req" static="false" type="com.tencent.mm.opensdk.modelbiz.JumpToBizWebview.Req" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="extMsg" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="scene" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="toUserName" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="webType" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="OpenBusiLuckyMoney" static="false" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="OpenBusiLuckyMoney" static="false" type="com.tencent.mm.opensdk.modelbiz.OpenBusiLuckyMoney" visibility="public">
+      </constructor>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseReq" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseReq" final="false" name="OpenBusiLuckyMoney.Req" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="OpenBusiLuckyMoney.Req" static="false" type="com.tencent.mm.opensdk.modelbiz.OpenBusiLuckyMoney.Req" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="appId" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="nonceStr" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="packageExt" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="signType" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="signature" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="timeStamp" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="OpenRankList" static="false" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="OpenRankList" static="false" type="com.tencent.mm.opensdk.modelbiz.OpenRankList" visibility="public">
+      </constructor>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseReq" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseReq" final="false" name="OpenRankList.Req" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="OpenRankList.Req" static="false" type="com.tencent.mm.opensdk.modelbiz.OpenRankList.Req" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="OpenWebview" static="false" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="OpenWebview" static="false" type="com.tencent.mm.opensdk.modelbiz.OpenWebview" visibility="public">
+      </constructor>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseReq" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseReq" final="false" name="OpenWebview.Req" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="OpenWebview.Req" static="false" type="com.tencent.mm.opensdk.modelbiz.OpenWebview.Req" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="url" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseResp" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseResp" final="false" name="OpenWebview.Resp" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="OpenWebview.Resp" static="false" type="com.tencent.mm.opensdk.modelbiz.OpenWebview.Resp" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="OpenWebview.Resp" static="false" type="com.tencent.mm.opensdk.modelbiz.OpenWebview.Resp" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="result" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+  </package>
+  <package name="com.tencent.mm.opensdk.modelmsg">
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="GetMessageFromWX" static="false" visibility="public" />
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseReq" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseReq" final="false" name="GetMessageFromWX.Req" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="GetMessageFromWX.Req" static="false" type="com.tencent.mm.opensdk.modelmsg.GetMessageFromWX.Req" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="GetMessageFromWX.Req" static="false" type="com.tencent.mm.opensdk.modelmsg.GetMessageFromWX.Req" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="country" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="lang" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="username" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseResp" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseResp" final="false" name="GetMessageFromWX.Resp" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="GetMessageFromWX.Resp" static="false" type="com.tencent.mm.opensdk.modelmsg.GetMessageFromWX.Resp" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="GetMessageFromWX.Resp" static="false" type="com.tencent.mm.opensdk.modelmsg.GetMessageFromWX.Resp" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="message" static="false" transient="false" type="com.tencent.mm.opensdk.modelmsg.WXMediaMessage" type-generic-aware="com.tencent.mm.opensdk.modelmsg.WXMediaMessage" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="LaunchFromWX" static="false" visibility="public" />
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseReq" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseReq" final="false" name="LaunchFromWX.Req" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="LaunchFromWX.Req" static="false" type="com.tencent.mm.opensdk.modelmsg.LaunchFromWX.Req" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="LaunchFromWX.Req" static="false" type="com.tencent.mm.opensdk.modelmsg.LaunchFromWX.Req" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="country" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="lang" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="messageAction" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="messageExt" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseResp" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseResp" final="false" name="LaunchFromWX.Resp" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="LaunchFromWX.Resp" static="false" type="com.tencent.mm.opensdk.modelmsg.LaunchFromWX.Resp" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="LaunchFromWX.Resp" static="false" type="com.tencent.mm.opensdk.modelmsg.LaunchFromWX.Resp" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="SendAuth" static="false" visibility="public" />
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseReq" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseReq" final="false" name="SendAuth.Req" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="SendAuth.Req" static="false" type="com.tencent.mm.opensdk.modelmsg.SendAuth.Req" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="SendAuth.Req" static="false" type="com.tencent.mm.opensdk.modelmsg.SendAuth.Req" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="scope" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="state" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseResp" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseResp" final="false" name="SendAuth.Resp" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="SendAuth.Resp" static="false" type="com.tencent.mm.opensdk.modelmsg.SendAuth.Resp" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="SendAuth.Resp" static="false" type="com.tencent.mm.opensdk.modelmsg.SendAuth.Resp" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="code" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="country" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="lang" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="state" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="url" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="SendMessageToWX" static="false" visibility="public" />
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseReq" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseReq" final="false" name="SendMessageToWX.Req" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="SendMessageToWX.Req" static="false" type="com.tencent.mm.opensdk.modelmsg.SendMessageToWX.Req" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="SendMessageToWX.Req" static="false" type="com.tencent.mm.opensdk.modelmsg.SendMessageToWX.Req" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="true" name="WXSceneFavorite" static="true" transient="false" type="int" type-generic-aware="int" value="2" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="WXSceneSession" static="true" transient="false" type="int" type-generic-aware="int" value="0" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="WXSceneTimeline" static="true" transient="false" type="int" type-generic-aware="int" value="1" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="message" static="false" transient="false" type="com.tencent.mm.opensdk.modelmsg.WXMediaMessage" type-generic-aware="com.tencent.mm.opensdk.modelmsg.WXMediaMessage" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="scene" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseResp" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseResp" final="false" name="SendMessageToWX.Resp" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="SendMessageToWX.Resp" static="false" type="com.tencent.mm.opensdk.modelmsg.SendMessageToWX.Resp" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="SendMessageToWX.Resp" static="false" type="com.tencent.mm.opensdk.modelmsg.SendMessageToWX.Resp" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="ShowMessageFromWX" static="false" visibility="public" />
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseReq" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseReq" final="false" name="ShowMessageFromWX.Req" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="ShowMessageFromWX.Req" static="false" type="com.tencent.mm.opensdk.modelmsg.ShowMessageFromWX.Req" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="ShowMessageFromWX.Req" static="false" type="com.tencent.mm.opensdk.modelmsg.ShowMessageFromWX.Req" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="country" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="lang" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="message" static="false" transient="false" type="com.tencent.mm.opensdk.modelmsg.WXMediaMessage" type-generic-aware="com.tencent.mm.opensdk.modelmsg.WXMediaMessage" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseResp" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseResp" final="false" name="ShowMessageFromWX.Resp" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="ShowMessageFromWX.Resp" static="false" type="com.tencent.mm.opensdk.modelmsg.ShowMessageFromWX.Resp" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="ShowMessageFromWX.Resp" static="false" type="com.tencent.mm.opensdk.modelmsg.ShowMessageFromWX.Resp" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="WXAppExtendObject" static="false" visibility="public">
+      <implements name="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject" name-generic-aware="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject">
+      </implements>
+      <constructor deprecated="not deprecated" final="false" name="WXAppExtendObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXAppExtendObject" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="java.lang.String">
+        </parameter>
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="WXAppExtendObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXAppExtendObject" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="byte[]">
+        </parameter>
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="WXAppExtendObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXAppExtendObject" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="serialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="type" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="unserialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <field deprecated="not deprecated" final="false" name="extInfo" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="fileData" static="false" transient="false" type="byte[]" type-generic-aware="byte[]" value="null" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="filePath" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="WXAppLaunchData" static="false" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="WXAppLaunchData" static="false" type="com.tencent.mm.opensdk.modelmsg.WXAppLaunchData" visibility="public">
+      </constructor>
+      <field deprecated="not deprecated" final="true" name="ACTION_HANDLE_WXAPPLAUNCH" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;.ACTION_HANDLE_WXAPPLAUNCH&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="ACTION_HANDLE_WXAPP_RESULT" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;.ACTION_HANDLE_WXAPP_RESULT&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="ACTION_HANDLE_WXAPP_SHOW" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;.ACTION_HANDLE_WXAPP_SHOW&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="launchType" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="message" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="WXAppLaunchData.Builder" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="WXAppLaunchData.Builder" static="false" type="com.tencent.mm.opensdk.modelmsg.WXAppLaunchData.Builder" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="fromBundle" native="false" return="com.tencent.mm.opensdk.modelmsg.WXAppLaunchData" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="toBundle" native="false" return="android.os.Bundle" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="com.tencent.mm.opensdk.modelmsg.WXAppLaunchData">
+        </parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="WXDesignerSharedObject" static="false" visibility="public">
+      <implements name="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject" name-generic-aware="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject">
+      </implements>
+      <constructor deprecated="not deprecated" final="false" name="WXDesignerSharedObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXDesignerSharedObject" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="WXDesignerSharedObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXDesignerSharedObject" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="int">
+        </parameter>
+        <parameter name="p2" type="java.lang.String">
+        </parameter>
+        <parameter name="p3" type="java.lang.String">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="serialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="type" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="unserialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <field deprecated="not deprecated" final="false" name="designerName" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="designerRediretctUrl" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="designerUIN" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="thumburl" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="url" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="WXEmojiObject" static="false" visibility="public">
+      <implements name="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject" name-generic-aware="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject">
+      </implements>
+      <constructor deprecated="not deprecated" final="false" name="WXEmojiObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXEmojiObject" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="WXEmojiObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXEmojiObject" visibility="public">
+        <parameter name="p0" type="byte[]">
+        </parameter>
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="WXEmojiObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXEmojiObject" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="serialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setEmojiData" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="byte[]">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setEmojiPath" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="type" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="unserialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <field deprecated="not deprecated" final="false" name="emojiData" static="false" transient="false" type="byte[]" type-generic-aware="byte[]" value="null" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="emojiPath" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="WXEmojiPageSharedObject" static="false" visibility="public">
+      <implements name="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject" name-generic-aware="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject">
+      </implements>
+      <constructor deprecated="not deprecated" final="false" name="WXEmojiPageSharedObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXEmojiPageSharedObject" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="WXEmojiPageSharedObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXEmojiPageSharedObject" visibility="public">
+        <parameter name="p0" type="int">
+        </parameter>
+        <parameter name="p1" type="int">
+        </parameter>
+        <parameter name="p2" type="java.lang.String">
+        </parameter>
+        <parameter name="p3" type="java.lang.String">
+        </parameter>
+        <parameter name="p4" type="java.lang.String">
+        </parameter>
+        <parameter name="p5" type="java.lang.String">
+        </parameter>
+        <parameter name="p6" type="int">
+        </parameter>
+        <parameter name="p7" type="java.lang.String">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="serialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="type" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="unserialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <field deprecated="not deprecated" final="false" name="desc" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="iconUrl" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="pageType" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="secondUrl" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="tid" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="title" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="type" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="url" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="WXEmojiSharedObject" static="false" visibility="public">
+      <implements name="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject" name-generic-aware="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject">
+      </implements>
+      <constructor deprecated="not deprecated" final="false" name="WXEmojiSharedObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXEmojiSharedObject" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="WXEmojiSharedObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXEmojiSharedObject" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="int">
+        </parameter>
+        <parameter name="p2" type="java.lang.String">
+        </parameter>
+        <parameter name="p3" type="java.lang.String">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="serialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="type" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="unserialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <field deprecated="not deprecated" final="false" name="packageflag" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="packageid" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="thumburl" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="url" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="WXFileObject" static="false" visibility="public">
+      <implements name="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject" name-generic-aware="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject">
+      </implements>
+      <constructor deprecated="not deprecated" final="false" name="WXFileObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXFileObject" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="WXFileObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXFileObject" visibility="public">
+        <parameter name="p0" type="byte[]">
+        </parameter>
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="WXFileObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXFileObject" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="serialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setContentLengthLimit" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="int">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setFileData" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="byte[]">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setFilePath" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="type" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="unserialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <field deprecated="not deprecated" final="false" name="fileData" static="false" transient="false" type="byte[]" type-generic-aware="byte[]" value="null" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="filePath" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="WXImageObject" static="false" visibility="public">
+      <implements name="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject" name-generic-aware="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject">
+      </implements>
+      <constructor deprecated="not deprecated" final="false" name="WXImageObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXImageObject" visibility="public">
+        <parameter name="p0" type="android.graphics.Bitmap">
+        </parameter>
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="WXImageObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXImageObject" visibility="public">
+        <parameter name="p0" type="byte[]">
+        </parameter>
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="WXImageObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXImageObject" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="serialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setImagePath" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="type" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="unserialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <field deprecated="not deprecated" final="false" name="imageData" static="false" transient="false" type="byte[]" type-generic-aware="byte[]" value="null" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="imagePath" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="WXLocationObject" static="false" visibility="public">
+      <implements name="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject" name-generic-aware="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject">
+      </implements>
+      <constructor deprecated="not deprecated" final="false" name="WXLocationObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXLocationObject" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="WXLocationObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXLocationObject" visibility="public">
+        <parameter name="p0" type="double">
+        </parameter>
+        <parameter name="p1" type="double">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="serialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="type" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="unserialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <field deprecated="not deprecated" final="false" name="lat" static="false" transient="false" type="double" type-generic-aware="double" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="lng" static="false" transient="false" type="double" type-generic-aware="double" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="WXMediaMessage" static="false" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="WXMediaMessage" static="false" type="com.tencent.mm.opensdk.modelmsg.WXMediaMessage" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="WXMediaMessage" static="false" type="com.tencent.mm.opensdk.modelmsg.WXMediaMessage" visibility="public">
+        <parameter name="p0" type="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="true" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="setThumbImage" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.graphics.Bitmap">
+        </parameter>
+      </method>
+      <field deprecated="not deprecated" final="true" name="ACTION_WXAPPMESSAGE" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;com.tencent.mm.sdk.openapi.Intent.ACTION_WXAPPMESSAGE&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="THUMB_LENGTH_LIMIT" static="true" transient="false" type="int" type-generic-aware="int" value="32768" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="description" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="mediaObject" static="false" transient="false" type="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject" type-generic-aware="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject" visibility="public" volatile="false" managedName="mediaObject">
+      </field>
+      <field deprecated="not deprecated" final="false" name="mediaTagName" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="messageAction" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="messageExt" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="sdkVer" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="thumbData" static="false" transient="false" type="byte[]" type-generic-aware="byte[]" value="null" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="title" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="WXMediaMessage.Builder" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="WXMediaMessage.Builder" static="false" type="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.Builder" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="fromBundle" native="false" return="com.tencent.mm.opensdk.modelmsg.WXMediaMessage" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="toBundle" native="false" return="android.os.Bundle" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="com.tencent.mm.opensdk.modelmsg.WXMediaMessage">
+        </parameter>
+      </method>
+      <field deprecated="not deprecated" final="true" name="KEY_IDENTIFIER" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;_wxobject_identifier_&quot;" visibility="public" volatile="false">
+      </field>
+    </class>
+    <interface abstract="true" deprecated="not deprecated" final="false" name="WXMediaMessage.IMediaObject" static="true" visibility="public">
+      <method abstract="true" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="serialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="type" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="unserialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <field deprecated="not deprecated" final="true" name="TYPE_APPBRAND" static="true" transient="false" type="int" type-generic-aware="int" value="33" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_APPDATA" static="true" transient="false" type="int" type-generic-aware="int" value="7" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_CARD_SHARE" static="true" transient="false" type="int" type-generic-aware="int" value="16" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_DESIGNER_SHARED" static="true" transient="false" type="int" type-generic-aware="int" value="25" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_DEVICE_ACCESS" static="true" transient="false" type="int" type-generic-aware="int" value="12" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_EMOJI" static="true" transient="false" type="int" type-generic-aware="int" value="8" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_EMOJILIST_SHARED" static="true" transient="false" type="int" type-generic-aware="int" value="27" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_EMOTICON_GIFT" static="true" transient="false" type="int" type-generic-aware="int" value="11" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_EMOTICON_SHARED" static="true" transient="false" type="int" type-generic-aware="int" value="15" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_EMOTIONLIST_SHARED" static="true" transient="false" type="int" type-generic-aware="int" value="26" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_FILE" static="true" transient="false" type="int" type-generic-aware="int" value="6" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_GIFTCARD" static="true" transient="false" type="int" type-generic-aware="int" value="34" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_IMAGE" static="true" transient="false" type="int" type-generic-aware="int" value="2" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_LOCATION" static="true" transient="false" type="int" type-generic-aware="int" value="30" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_LOCATION_SHARE" static="true" transient="false" type="int" type-generic-aware="int" value="17" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_MALL_PRODUCT" static="true" transient="false" type="int" type-generic-aware="int" value="13" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_MUSIC" static="true" transient="false" type="int" type-generic-aware="int" value="3" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_NOTE" static="true" transient="false" type="int" type-generic-aware="int" value="24" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_OLD_TV" static="true" transient="false" type="int" type-generic-aware="int" value="14" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_PRODUCT" static="true" transient="false" type="int" type-generic-aware="int" value="10" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_RECORD" static="true" transient="false" type="int" type-generic-aware="int" value="19" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_TEXT" static="true" transient="false" type="int" type-generic-aware="int" value="1" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_TV" static="true" transient="false" type="int" type-generic-aware="int" value="20" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_UNKNOWN" static="true" transient="false" type="int" type-generic-aware="int" value="0" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_URL" static="true" transient="false" type="int" type-generic-aware="int" value="5" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="TYPE_VIDEO" static="true" transient="false" type="int" type-generic-aware="int" value="4" visibility="public" volatile="false">
+      </field>
+    </interface>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="WXMusicObject" static="false" visibility="public">
+      <implements name="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject" name-generic-aware="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject">
+      </implements>
+      <constructor deprecated="not deprecated" final="false" name="WXMusicObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXMusicObject" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="serialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="type" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="unserialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <field deprecated="not deprecated" final="false" name="musicDataUrl" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="musicLowBandDataUrl" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="musicLowBandUrl" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="musicUrl" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="WXTextObject" static="false" visibility="public">
+      <implements name="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject" name-generic-aware="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject">
+      </implements>
+      <constructor deprecated="not deprecated" final="false" name="WXTextObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXTextObject" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="WXTextObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXTextObject" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="serialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="type" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="unserialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <field deprecated="not deprecated" final="false" name="text" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="WXVideoObject" static="false" visibility="public">
+      <implements name="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject" name-generic-aware="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject">
+      </implements>
+      <constructor deprecated="not deprecated" final="false" name="WXVideoObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXVideoObject" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="serialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="type" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="unserialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <field deprecated="not deprecated" final="false" name="videoLowBandUrl" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="videoUrl" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="WXWebpageObject" static="false" visibility="public">
+      <implements name="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject" name-generic-aware="com.tencent.mm.opensdk.modelmsg.WXMediaMessage.IMediaObject">
+      </implements>
+      <constructor deprecated="not deprecated" final="false" name="WXWebpageObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXWebpageObject" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="WXWebpageObject" static="false" type="com.tencent.mm.opensdk.modelmsg.WXWebpageObject" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="serialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="type" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="unserialize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <field deprecated="not deprecated" final="false" name="canvasPageXml" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="extInfo" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="webpageUrl" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+  </package>
+  <package name="com.tencent.mm.opensdk.modelpay">
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseReq" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseReq" final="false" name="PayReq" static="false" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="PayReq" static="false" type="com.tencent.mm.opensdk.modelpay.PayReq" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="appId" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="extData" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="nonceStr" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="options" static="false" transient="false" type="com.tencent.mm.opensdk.modelpay.PayReq.Options" type-generic-aware="com.tencent.mm.opensdk.modelpay.PayReq.Options" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="packageValue" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="partnerId" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="prepayId" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="sign" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="signType" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="timeStamp" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="PayReq.Options" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="PayReq.Options" static="false" type="com.tencent.mm.opensdk.modelpay.PayReq.Options" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="fromBundle" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="toBundle" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </method>
+      <field deprecated="not deprecated" final="true" name="INVALID_FLAGS" static="true" transient="false" type="int" type-generic-aware="int" value="-1" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="callbackClassName" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="callbackFlags" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="com.tencent.mm.opensdk.modelbase.BaseResp" extends-generic-aware="com.tencent.mm.opensdk.modelbase.BaseResp" final="false" name="PayResp" static="false" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="PayResp" static="false" type="com.tencent.mm.opensdk.modelpay.PayResp" visibility="public">
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="PayResp" static="false" type="com.tencent.mm.opensdk.modelpay.PayResp" visibility="public">
+        <parameter name="p0" type="android.os.Bundle">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="checkArgs" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getType" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="false" name="extData" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="prepayId" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="returnKey" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+      </field>
+    </class>
+  </package>
+  <package name="com.tencent.mm.opensdk.openapi">
+    <interface abstract="true" deprecated="not deprecated" final="false" name="IWXAPI" static="false" visibility="public">
+      <method abstract="true" deprecated="not deprecated" final="false" name="detach" native="false" return="void" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="getWXAppSupportAPI" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="handleIntent" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.content.Intent">
+        </parameter>
+        <parameter name="p1" type="com.tencent.mm.opensdk.openapi.IWXAPIEventHandler">
+        </parameter>
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="isWXAppInstalled" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="isWXAppSupportAPI" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="openWXApp" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="registerApp" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="registerApp" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="long">
+        </parameter>
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="sendReq" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="com.tencent.mm.opensdk.modelbase.BaseReq">
+        </parameter>
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="sendResp" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="com.tencent.mm.opensdk.modelbase.BaseResp">
+        </parameter>
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="unregisterApp" native="false" return="void" static="false" synchronized="false" visibility="public">
+      </method>
+    </interface>
+    <interface abstract="true" deprecated="not deprecated" final="false" name="IWXAPIEventHandler" static="false" visibility="public">
+      <method abstract="true" deprecated="not deprecated" final="false" name="onReq" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="com.tencent.mm.opensdk.modelbase.BaseReq">
+        </parameter>
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="onResp" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="com.tencent.mm.opensdk.modelbase.BaseResp">
+        </parameter>
+      </method>
+    </interface>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="MMSharedPreferences" static="false" visibility="">
+      <implements name="android.content.SharedPreferences" name-generic-aware="android.content.SharedPreferences">
+      </implements>
+      <constructor deprecated="not deprecated" final="false" name="MMSharedPreferences" static="false" type="com.tencent.mm.opensdk.openapi.MMSharedPreferences" visibility="public">
+        <parameter name="p0" type="android.content.Context">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="contains" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="edit" native="false" return="android.content.SharedPreferences.Editor" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getAll" native="false" return="java.util.Map&lt;java.lang.String, ?&gt;" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getBoolean" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="boolean">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getFloat" native="false" return="float" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="float">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getInt" native="false" return="int" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="int">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getLong" native="false" return="long" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="long">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getString" native="false" return="java.lang.String" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="java.lang.String">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getStringSet" native="false" return="java.util.Set&lt;java.lang.String&gt;" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="java.util.Set&lt;java.lang.String&gt;">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="registerOnSharedPreferenceChangeListener" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.content.SharedPreferences.OnSharedPreferenceChangeListener">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="unregisterOnSharedPreferenceChangeListener" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.content.SharedPreferences.OnSharedPreferenceChangeListener">
+        </parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="MMSharedPreferences.REditor" static="true" visibility="">
+      <implements name="android.content.SharedPreferences.Editor" name-generic-aware="android.content.SharedPreferences.Editor">
+      </implements>
+      <constructor deprecated="not deprecated" final="false" name="MMSharedPreferences.REditor" static="false" type="com.tencent.mm.opensdk.openapi.MMSharedPreferences.REditor" visibility="public">
+        <parameter name="p0" type="android.content.ContentResolver">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="apply" native="false" return="void" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="clear" native="false" return="android.content.SharedPreferences.Editor" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="commit" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="putBoolean" native="false" return="android.content.SharedPreferences.Editor" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="boolean">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="putFloat" native="false" return="android.content.SharedPreferences.Editor" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="float">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="putInt" native="false" return="android.content.SharedPreferences.Editor" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="int">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="putLong" native="false" return="android.content.SharedPreferences.Editor" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="long">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="putString" native="false" return="android.content.SharedPreferences.Editor" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="java.lang.String">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="putStringSet" native="false" return="android.content.SharedPreferences.Editor" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="java.util.Set&lt;java.lang.String&gt;">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="remove" native="false" return="android.content.SharedPreferences.Editor" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="WXAPIFactory" static="false" visibility="public">
+      <method abstract="false" deprecated="not deprecated" final="false" name="createWXAPI" native="false" return="com.tencent.mm.opensdk.openapi.IWXAPI" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.content.Context">
+        </parameter>
+        <parameter name="p1" type="java.lang.String">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="createWXAPI" native="false" return="com.tencent.mm.opensdk.openapi.IWXAPI" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.content.Context">
+        </parameter>
+        <parameter name="p1" type="java.lang.String">
+        </parameter>
+        <parameter name="p2" type="boolean">
+        </parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="WXApiImplComm" static="false" visibility="">
+      <method abstract="false" deprecated="not deprecated" final="false" name="isIntentFromWx" native="false" return="boolean" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.content.Intent">
+        </parameter>
+        <parameter name="p1" type="java.lang.String">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="validateAppSignature" native="false" return="boolean" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.content.Context">
+        </parameter>
+        <parameter name="p1" type="android.content.pm.Signature[]">
+        </parameter>
+        <parameter name="p2" type="boolean">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="validateAppSignatureForPackage" native="false" return="boolean" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.content.Context">
+        </parameter>
+        <parameter name="p1" type="java.lang.String">
+        </parameter>
+        <parameter name="p2" type="boolean">
+        </parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="WXApiImplV10" static="false" visibility="">
+      <implements name="com.tencent.mm.opensdk.openapi.IWXAPI" name-generic-aware="com.tencent.mm.opensdk.openapi.IWXAPI">
+      </implements>
+      <method abstract="false" deprecated="not deprecated" final="true" name="detach" native="false" return="void" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="getWXAppSupportAPI" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="handleIntent" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.content.Intent">
+        </parameter>
+        <parameter name="p1" type="com.tencent.mm.opensdk.openapi.IWXAPIEventHandler">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="isWXAppInstalled" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="isWXAppSupportAPI" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="openWXApp" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="registerApp" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="registerApp" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+        <parameter name="p1" type="long">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="sendReq" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="com.tencent.mm.opensdk.modelbase.BaseReq">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="sendResp" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="com.tencent.mm.opensdk.modelbase.BaseResp">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="unregisterApp" native="false" return="void" static="false" synchronized="false" visibility="public">
+      </method>
+    </class>
+  </package>
+</api>

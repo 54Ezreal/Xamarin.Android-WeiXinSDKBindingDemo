@@ -1,0 +1,14 @@
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\WeiXinSDKBindDemo\XamarinWeiXinSDKBindingDemo\bin\Debug\XamarinWeiXinSDKBindingDemo.dll
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\WeiXinSDKBindDemo\XamarinWeiXinSDKBindingDemo\bin\Debug\XamarinWeiXinSDKBindingDemo.pdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\WeiXinSDKBindDemo\XamarinWeiXinSDKBindingDemo\obj\Debug\XamarinWeiXinSDKBindingDemo.dll
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\WeiXinSDKBindDemo\XamarinWeiXinSDKBindingDemo\obj\Debug\XamarinWeiXinSDKBindingDemo.pdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\WeiXinSDKBindDemo\XamarinWeiXinSDKBindingDemo\obj\Debug\XamarinWeiXinSDKBindingDemo.dll.mdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\WeiXinSDKBindDemo\XamarinWeiXinSDKBindingDemo\bin\Debug\XamarinWeiXinSDKBindingDemo.dll.mdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\WeiXinSDKBindDemo\XamarinWeiXinSDKBindingDemo\obj\Debug\XamarinWeiXinSDKBindingDemo.dll.mdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\WeiXinSDKBindDemo\XamarinWeiXinSDKBindingDemo\bin\Debug\XamarinWeiXinSDKBindingDemo.dll.mdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\WeiXinSDKBindDemo\XamarinWeiXinSDKBindingDemo\obj\Debug\XamarinWeiXinSDKBindingDemo.dll.mdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\WeiXinSDKBindDemo\XamarinWeiXinSDKBindingDemo\bin\Debug\XamarinWeiXinSDKBindingDemo.dll.mdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\WeiXinSDKBindDemo\XamarinWeiXinSDKBindingDemo\obj\Debug\XamarinWeiXinSDKBindingDemo.dll.mdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\WeiXinSDKBindDemo\XamarinWeiXinSDKBindingDemo\bin\Debug\XamarinWeiXinSDKBindingDemo.dll.mdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\WeiXinSDKBindDemo\XamarinWeiXinSDKBindingDemo\obj\Debug\XamarinWeiXinSDKBindingDemo.dll.mdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\WeiXinSDKBindDemo\XamarinWeiXinSDKBindingDemo\bin\Debug\XamarinWeiXinSDKBindingDemo.dll.mdb

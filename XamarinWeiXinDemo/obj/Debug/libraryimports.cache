@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <ManifestDocuments />
+  <NativeLibraries />
+  <Jars>
+    <Jar>obj\Debug\__library_projects__\XamarinWeiXinSDKBindingDemo\library_project_imports\libammsdk.jar</Jar>
+  </Jars>
+</Paths>
